@@ -15,19 +15,19 @@ _function name_: Function
 
 
 ### Index
-* [Input Classifications](#input-classifications)
+* [Input Analysis](#input-analysis)
 * [Solution Explanation](#solution-explanation)
 * [Constraints](#constraints)
 * [Resource Estimation](#resource-estimation)
 * [Scaffolding](#scaffolding)
-* [Bugs & Challenges](#bugs-challenges) 
 * [Language Features](#language-features)
+* [Bugs & Challenges](#bugs-challenges) 
 * [Use Cases](#use-cases)
 * [Learning Journal](#learning-journal)
 
 ---
 
-## Input Classifications
+## Input Analysis
 
 What characteristics of your inputs are important for your solution?  
 
@@ -74,17 +74,6 @@ Provide a link to Gist you used to construct your solution's scaffolding.  What 
 
 ___
 
-## Challenges & Bugs
-
-What particular challenges & bugs did you come across when you were filling in your scaffolding?
-
-Were they logic bugs? Language bugs? 
-
-Did you have trouble keeping track of which part of the challenge you were solving?
-
-[TOP](#index)
-
-___
 
 ## Language Features
 
@@ -97,6 +86,19 @@ Keeping track of the language features you use will enable you separate the prob
 [TOP](#index)
 
 ---
+
+## Challenges & Bugs
+
+What particular challenges & bugs did you come across when you were filling in your scaffolding?
+
+Were they logic bugs? Language bugs? 
+
+Did you have trouble keeping track of which part of the challenge you were solving?
+
+[TOP](#index)
+
+___
+
 ## Use Cases
 
 List 5+ use cases for your solution.  They can be stand-alone, part of an application, or impractical.  Your use cases can be overly complicated, or very basic. What's important is that you come up with as many and as diverse use cases as possible.

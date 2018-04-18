@@ -17,30 +17,29 @@ Explanation of why this is an interesting test case to step through
 
 __Predicted Happenings:__
 * __Global Context__
-  * _Variables_
+  * _Primitives_
     a. 
-  * _Objects
+  * _Objects_
     a.
 * __Other Contexts__
-  * _Variables_
+  * _Primitives_
     a. 
   * _Objects
     a.
 
 __Actual Happenings:__
 * __Global Context__
-  * _Variables_
+  * _Primitives_
     a. 
-  * _Objects
+  * _Objects_
     a.
 * __Other Contexts__
-  * _Variables_
+  * _Primitives_
     a. 
-  * _Objects
+  * _Objects_
     a.
 
-Description of what happened in this step, and how well you predicted it.
-
+Description of what happened in this step, and how well you predicted it.  This is your space to describe anything that happened but doesn't fall into the bulleted categories.
 
 
 ___
