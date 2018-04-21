@@ -1,3 +1,5 @@
+(See a completed example of this repository [right here](https://github.com/elewa-student/simple-elevator))
+
 # [<challenge name>](https://www.codewars.com/kata/<challenge name>)
 
 Explain the challenge as completely & clearly as you can.
